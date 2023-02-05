@@ -25,4 +25,9 @@
     background-color: #ddd;
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    font-size:large
+  }
+  .text-init {
+    font-size:large
+    font-type:0ex
   }
